@@ -23,7 +23,3 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
-
-## Data
-
-- [](https://github.com/BuzzFeedNews/trumpworld)
