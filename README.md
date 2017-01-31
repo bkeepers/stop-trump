@@ -17,4 +17,5 @@ A list of open source projects tackling immigration, civic engagement, fair medi
 
 ## Organizing
 
+- [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
