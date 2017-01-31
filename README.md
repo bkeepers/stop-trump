@@ -27,4 +27,5 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## Organizing
 
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
+- [Technical Majority](http://technicalmajority.com/) - a catalog of organizations and projects to help people better use technology for the causes they care about
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
