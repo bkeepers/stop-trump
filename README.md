@@ -19,7 +19,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## Fair Media
 
 - [B.S. Detector](https://github.com/bs-detector/bs-detector) - A browser extension that alerts users to unreliable news sources.
- 
+
 ## Organizing
 
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
