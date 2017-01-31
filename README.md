@@ -6,7 +6,7 @@ A list of open source projects tackling immigration, civic engagement, fair medi
 
 - [holyfucktheelection.com](https://github.com/csb324/holyfucktheelectionistomorrow) - Donald Trump won the election. But that doesn't mean it's fucking over.
 
-## #MuslimBan
+## Immigration
 
 - [YourHaq](https://github.com/aymannadeem/yourhaq) - Community driven content for people navigating changing US immigration laws.
 - [strandedbytrump.com](https://github.com/RichardLitt/stranded-by-trump) - Helping travelers stranded by Trump
