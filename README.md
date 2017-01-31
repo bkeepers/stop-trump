@@ -1,6 +1,6 @@
-# Stop Trump [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Stop Trump
 
-A list of open source projects tackling immigration, civic engagement, fair media, civil rights, or general resources on resisting the Trump administration.
+A list of public projects on GitHub tackling immigration, civic engagement, fair media, civil rights, or general resources on resisting the Trump administration.
 
 ## General Resources
 
@@ -19,3 +19,7 @@ A list of open source projects tackling immigration, civic engagement, fair medi
 
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
+
+## Data
+
+- [](https://github.com/BuzzFeedNews/trumpworld)
