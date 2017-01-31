@@ -20,6 +20,10 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 - [B.S. Detector](https://github.com/bs-detector/bs-detector) - A browser extension that alerts users to unreliable news sources.
 
+## Boycotts
+
+- [Grab Your Wallet](https://github.com/egonSchiele/GrabYourWallet) - Chrome extension that lets you know if a site you are browsing supports Trump.
+
 ## Organizing
 
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
