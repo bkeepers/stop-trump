@@ -22,7 +22,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 ## Boycotts
 
-- [Grab Your Wallet](https://github.com/egonSchiele/GrabYourWallet)
+- [Grab Your Wallet](https://github.com/egonSchiele/GrabYourWallet) - Chrome extension that lets you know if a site you are browsing supports Trump.
 
 ## Organizing
 
