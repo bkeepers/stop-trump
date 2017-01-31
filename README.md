@@ -5,6 +5,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## General Resources
 
 - [holyfucktheelection.com](https://github.com/csb324/holyfucktheelectionistomorrow) - Donald Trump won the election. But that doesn't mean it's fucking over.
+- [Proyecto Casa Blanca](http://proyectocasablanca.com/) - Independent group of Latinos who recognize the importance of staying informed regardless of language preference. The new white house website does not include a spanish version. 
 
 ## Immigration
 
@@ -14,10 +15,6 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## Civic Engagement
 
 - [5calls.org](https://github.com/5calls/5calls) - a guide for locating and calling your representatives.
-
-## Fair Media
-
-- [B.S. Detector](https://github.com/bs-detector/bs-detector) - A browser extension that alerts users to unreliable news sources.
 
 ## Organizing
 
