@@ -31,3 +31,8 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
 - [Technical Majority](http://technicalmajority.com/) - a catalog of organizations and projects to help people better use technology for the causes they care about
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
+
+## Satire
+
+- [IsTrumpStillFuckingPresident.co](https://github.com/zebaslam/TrumpQuotes) - Answers the questions, and provides some joy.
+- [tronalddump.io](https://github.com/tronalddump-io/tronald-app) - Api & web archive for the dumbest things donald trump has ever said.
