@@ -20,6 +20,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## Fair Media
 
 - [B.S. Detector](https://github.com/bs-detector/bs-detector) - A browser extension that alerts users to unreliable news sources.
+- [Federal Government 2017](https://github.com/jlord/federal-gov) - Summaries of events which challenge the way the US Government functions
 
 ## Boycotts
 
