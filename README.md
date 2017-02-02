@@ -12,6 +12,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 - [YourHaq](https://github.com/aymannadeem/yourhaq) - Community driven content for people navigating changing US immigration laws.
 - [strandedbytrump.com](https://github.com/RichardLitt/stranded-by-trump) - Helping travelers stranded by Trump
+- [siliconvalleystands.org](https://github.com/aryann/immigration-eo) - An Open Letter from the US Industries Regarding Travel Ban Executive Order
 - [2017-01-immigration-and-science](https://github.com/BuzzFeedNews/2017-01-immigration-and-science) - R code to recreate the graphics in the January 31, 2017 BuzzFeed News article "[These Nobel Prizewinners Show Why Immigration Is So Important For American Science.](https://www.buzzfeed.com/peteraldhous/immigration-and-science)"
 
 ## Civic Engagement
