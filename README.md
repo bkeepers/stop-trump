@@ -28,6 +28,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 ## Organizing
 
+- [Data4Democracy](https://github.com/Data4Democracy/read-this-first) - an inclusive community for data scientists and technologists to volunteer and collaborate on projects that make a positive impact on society.
 - [Code Against Trump](https://github.com/katerabinowitz/Code-Against-Trump) - Where to volunteer your tech + data skills to work against Trump's America
 - [Technical Majority](http://technicalmajority.com/) - a catalog of organizations and projects to help people better use technology for the causes they care about
 - [FuckTrumpHackathon](https://github.com/kscottz/FuckTrumpHackathon) - Let's Organize to Stop Trump
