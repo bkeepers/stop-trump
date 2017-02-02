@@ -36,3 +36,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 - [IsTrumpStillFuckingPresident.co](https://github.com/zebaslam/TrumpQuotes) - Answers the questions, and provides some joy.
 - [tronalddump.io](https://github.com/tronalddump-io/tronald-app) - Api & web archive for the dumbest things donald trump has ever said.
+
+## Revolution
+
+- [Democracy Earth Foundation](https://github.com/DemocracyEarth/sovereign) - Peer-to-peer democracy for a Post Nation-State world.
