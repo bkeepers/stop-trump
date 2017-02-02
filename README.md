@@ -34,6 +34,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 ## Satire
 
+- [Is Now Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - Declare things illegal and trump will sign it, like [voting](http://isnowillegal.com/?voting).
 - [IsTrumpStillFuckingPresident.co](https://github.com/zebaslam/TrumpQuotes) - Answers the questions, and provides some joy.
 - [tronalddump.io](https://github.com/tronalddump-io/tronald-app) - Api & web archive for the dumbest things donald trump has ever said.
 
