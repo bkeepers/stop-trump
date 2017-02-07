@@ -45,3 +45,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 ## Revolution
 
 - [Democracy Earth Foundation](https://github.com/DemocracyEarth/sovereign) - Peer-to-peer democracy for a Post Nation-State world.
+
+## Data
+
+- [TrumpWorld Graph](http://github.com/neo4j-contrib/trumpworld-graph) - Visualize and query the corporate connections of Trump and his cabinet
