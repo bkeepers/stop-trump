@@ -19,6 +19,10 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 
 - [5calls.org](https://github.com/5calls/5calls) - a guide for locating and calling your representatives.
 
+## Giving
+
+- [He Tweets, We Give](https://www.hetweetswegive.com/) - Donate to critical causes whenever Donald Trump tweets about them.
+
 ## Fair Media
 
 - [B.S. Detector](https://github.com/bs-detector/bs-detector) - A browser extension that alerts users to unreliable news sources.
