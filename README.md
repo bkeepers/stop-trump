@@ -41,6 +41,7 @@ A list of public projects on GitHub tackling immigration, civic engagement, fair
 - [Martian-Immigration-Nightmare](https://github.com/Zarkonnen/Martian-Immigration-Nightmare) - a game dedicated to Elon Musk, who very much wants to go to Mars, but won't stand up for people just trying to get home.
 - [IsTrumpStillFuckingPresident.co](https://github.com/zebaslam/TrumpQuotes) - Answers the questions, and provides some joy.
 - [tronalddump.io](https://github.com/tronalddump-io/tronald-app) - Api & web archive for the dumbest things donald trump has ever said.
+- [the-best-words.com](https://github.com/filipemir/trump) - Donald Trump's Best Words.
 
 ## Revolution
 
